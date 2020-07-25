@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Neutrino Web Browser.vshost", "Neutrino Web Browser.vshost.exe", "{AAF0786D-5A0D-4A87-A942-F74242BDD8C5}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino\Neutrino Web Browser\Neutrino Web Browser\bin\Debug\Neutrino Web Browser.vshost.exe
+		RemoteMachine = PLATINUM
+		StartingDirectory = F:\Harry Potter\All Project\MS Visual Basic 10.00 Project\Neutrino\Neutrino Web Browser\Neutrino Web Browser\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF0786D-5A0D-4A87-A942-F74242BDD8C5}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
